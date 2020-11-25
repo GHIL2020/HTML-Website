@@ -1,2 +1,2 @@
-# WS_HTML
+# HTML Website
 Basic HTML website.
