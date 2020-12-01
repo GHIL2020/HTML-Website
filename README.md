@@ -1,2 +1,2 @@
 # HTML Website
-Basic HTML website.
+Uploaded index page for the basic HTML website.
